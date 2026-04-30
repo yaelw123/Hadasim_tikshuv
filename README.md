@@ -2,11 +2,13 @@
 
 A system for managing school trips, featuring student/teacher registration and a real-time GPS simulation on a map.
 
-## 📸 Screenshots
-
+##  Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/354dafa9-7c2a-4e11-976c-081b5ffaab90" width="45%" />
   <img src="https://github.com/user-attachments/assets/504b7b04-ad86-48ef-8246-8ae1aaa516ef" width="45%" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c6042ff4-7071-4f56-b469-0a20918f5950" width="30%" />
   <img src="https://github.com/user-attachments/assets/019e7a8b-9935-45b8-aa22-1d18239d85a0" width="30%" />
   <img src="https://github.com/user-attachments/assets/547d8ee2-dc86-4d67-b968-a60c964a4d11" width="30%" />
