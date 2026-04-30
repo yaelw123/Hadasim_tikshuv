@@ -1,17 +1,9 @@
-# School Trip Management & GPS Simulator
+# School Trip Management 
 
 A system for managing school trips, featuring student/teacher registration and a real-time GPS simulation on a map.
 
 ##  Screenshots
-
-
-![Map Tracking](https://github.com/user-attachments/assets/354dafa9-7c2a-4e11-976c-081b5ffaab90)
-
-![Simulation View](https://github.com/user-attachments/assets/504b7b04-ad86-48ef-8246-8ae1aaa516ef)
-
-![Registration](https://github.com/user-attachments/assets/c6042ff4-7071-4f56-b469-0a20918f5950)
-
-![Login](https://github.com/user-attachments/assets/019e7a8b-9935-45b8-aa22-1d18239d85a0)
+<img width="1729" height="854" alt="צילום מסך 2026-04-30 175220" src="https://github.com/user-attachments/assets/c26c4f41-ec63-4864-9f91-bff806d3d197" />
 
 ##  External Dependencies & Installation
 ### Prerequisites
